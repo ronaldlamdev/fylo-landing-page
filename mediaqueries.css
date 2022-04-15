@@ -1,0 +1,179 @@
+@media screen and (min-width: 437px) {
+  #email-error-message {
+    top: 198px;
+    left: 102px;
+  }
+}
+
+@media screen and (min-width: 612px) {
+  #email-error-message {
+    top: 178px;
+    left: 182px;
+  }
+}
+
+@media screen and (min-width: 1106px) {
+  #email-error-message {
+    top: 159px;
+    left: 432px;
+  }
+}
+
+@media screen and (min-width: 1440px) {
+
+  header {
+    background-size: 100% 25%;
+  }
+
+  .logo-picture-one {
+    width: 12%;
+    float: left;
+    margin-left: 45px;
+  }
+
+  .nav-link {
+    font-size: 1.1rem;
+    margin-inline: 15px;
+  }
+
+  #intro-picture {
+    margin-top: 150px;
+    width: 40%;
+  }
+
+  .intro-info-container > h1 {
+    font-size: 2.5rem;
+    padding: 0 400px 0 400px;
+  }
+
+  .function-desc {
+    font-size: 1.4rem;
+    padding: 0 400px 0 400px;
+  }
+
+  #start {
+    width: 18vw;
+    font-size: 1.15rem;
+  }
+
+  .benefits {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .benefit > h2 {
+    font-size: 1.3rem;
+  }
+
+  .benefit > p {
+    font-size: 1rem;
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+
+  #conclusion {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .productive-image {
+    width: 70%;
+  }
+
+  .productive-text-container {
+    padding-right: 170px;
+  }
+
+  .productive-text-container > h1 {
+    font-size: 1.9rem;
+  }
+
+  .productive-text-container > p {
+    font-size: 1rem;
+  }
+
+  #testimonials {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-size: 1%;
+    background-position-x: 5px;
+  }
+
+  .testimonial {
+    font-size: 1.1rem;
+    padding: 16px 30px;
+  }
+
+  #sign-up {
+    margin-inline: auto;
+    width: 45vw;
+  }
+
+  #sign-up > h2{
+    font-size: 1.7rem;
+  }
+
+  #sign-up > p {
+    font-size: 1.1rem;
+  }
+
+  #email-error-message {
+    position: absolute;
+    left: 130px;
+    top: 237px;
+  }
+
+  #email-input {
+    font-size: 1rem;
+    width: 25vw;
+    margin-right: 10px;
+  }
+
+  #submit {
+    width: 15vw;
+    font-size: 1rem;
+  }
+
+  footer {
+    font-size: 1.2rem;
+  }
+
+  .addresses {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    align-items: center;
+  }
+
+  .contact {
+    margin-left: 60px;
+  }
+
+  .other-links-one {
+    margin-left: 150px;
+    gap: 1.5rem;
+  }
+
+  .other-links-two {
+    margin: 0 0 0 50px;
+    gap: 1.5rem;
+  }
+
+  .socials > i {
+    margin-inline: 10px;
+  }
+
+}
+
+@media screen and (min-width: 1445px) {
+  #email-error-message {
+    position: absolute;
+    top: 218px;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  #email-error-message {
+    position: absolute;
+    left: 200px;
+  }
+}
